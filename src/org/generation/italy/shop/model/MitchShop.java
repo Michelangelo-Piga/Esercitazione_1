@@ -154,7 +154,7 @@ public class MitchShop {
         System.out.println("2 ---> Most expensive product");
         System.out.println("3 ---> Add a new product to the list");
         System.out.println("4 ---> How many Fantasy books there are?");
-        System.out.println("5 ---> All the Rackets (Drop Style) over 100 Euros ");
+        System.out.println("5 ---> All the Rackets (Drop Style) over 100 Euros");
         System.out.println("6 ---> Goodbye!\n");
     }
 
